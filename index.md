@@ -1,6 +1,8 @@
 ## Welcome to GitHub Pages
 
-<div id="test"><h2>abc</h2></div>
+<div id="test">
+  <h2>abc</h2>
+</div>
 
 You can use the [editor on GitHub](https://github.com/krhablutzel/KnittingPatternGenerator/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
