@@ -53,4 +53,11 @@ video {
 
 .cell {
   background-color: #FFFFFF;
+  float: left;
+  width: 10%;
+  border-color: coral;
+}
+
+.row{
+  float: none;
 }
