@@ -16,7 +16,7 @@ function makeCanvas(){
     var row = ""
 
     // for each column
-    for (var j=0, j < canvasSize[0], j++) {
+    for (var j=0; j < canvasSize[0]; j++) {
       // cell filler
       row += "<div class='cell' id=cell'"+i+"-"+j"'><p>" + i+"-"+j + "</p></div>"
     }
