@@ -28,4 +28,4 @@ function resizeCanvas(){
 
 }
 
-function resizeCanvas();
+resizeCanvas();
