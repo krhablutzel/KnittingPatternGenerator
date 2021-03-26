@@ -4,8 +4,7 @@ console.log('hello world');
 var canvasSize = [8, 8];
 
 // fill in canvas with blocks
-
-function resizeCanvas(){
+function makeCanvas(){
 
   var canvas = document.getElementById('canvas');
 
@@ -28,4 +27,11 @@ function resizeCanvas(){
 
 }
 
-resizeCanvas();
+function resizeCells(){
+
+  // find page width, take 80%
+  // set canvas width to that num
+  // set cell width to that num / size, scale height squarely
+}
+
+makeCanvas();
