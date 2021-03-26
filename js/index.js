@@ -8,8 +8,6 @@ function makeCanvas(){
 
   var canvas = document.getElementById('canvas');
 
-  console.log(canvas);
-
   // clear canvas
   canvas.innerHTML = "";
 
