@@ -2,7 +2,6 @@
 
 Tired of the same old boring knitting patterns? Try our unconventional knitting pattern generator to gain pattern inspiration from cellular automata!
 
-
 ### Examples
 
 ##### Rule 30
@@ -11,23 +10,30 @@ Tired of the same old boring knitting patterns? Try our unconventional knitting 
 
 ![A knitted example.](/examples/rule30knitted.png)
 
-We knitted rule 30 as an example! This
-When knitting from the front, we knitted the pink and purled the yellow, and when knitting from the back, we did the reverse (every other row).
+We knitted rule 30 as an example! This image simply cannot capture the incredible texture of this pattern in 3D. When knitting from the front, we knitted the pink and purled the yellow, and when knitting from the back, we did the reverse (every other row).
 
 To recreate this pattern, enter 25 for the width and height and 30 for the seed.
 
 ##### Rule 25
 
-![Rule 30, 25x50 stitches](/examples/rule25.png)
+![Rule 30, 25x25 size](/examples/rule25.png)
 
 ![A knitted example.](/examples/rule25knitted.png)
 
-We started knitting a narrow scarf from rule 25 and these stripes already have such a fun pattern down the center!
-We knitted two rows for each individual row in the diagram, alternating knitting and purling rows in a KPPK pattern to create the stripes.
-When knitting from the front, we knitted the pink and purled the yellow, and when knitting from the back, we did the reverse (every other row).
+We started knitting a narrow scarf from rule 25, and these stripes already have such a fun pattern down the center!
+We knitted two rows for each individual row in the diagram, alternating knitting and purling rows in a KPPK pattern to create the stripes. At the accent stitches for each row, we knitted the reverse stitch compared to the rest of the row.
 
-To recreate this pattern, enter 25 for the width and height and 30 for the seed.
+To recreate this pattern, enter 25 for the width, 25 for the height, and 30 for the seed.
 
+##### Rule 182
+
+![Rule 30, 36x36 size](/examples/rule25.png)
+
+![A knitted example.](/examples/rule25knitted.png)
+
+Rule 182 creates a fun triangle pattern! This would look excellent in two contrasting yarn colors. Check out rule 181 as well for a less symmetrical version of these triangles.
+
+To recreate this pattern, enter 36 for the width and height and 182 for the seed.
 
 
 ##### Rule 80
