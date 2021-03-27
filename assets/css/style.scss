@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-#main_content {
+.inner {
   max-width: 900px !important;
 }
 img {
