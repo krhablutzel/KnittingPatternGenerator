@@ -1,6 +1,6 @@
 # The Unconventional Knitting Pattern Generator
 
-For HackSmith 2021
+For HackSmith 2021, by Kathleen Hablutzel and Dakota Mallen
 
 Inspired by the beautiful stripes, triangles, and seashell-like patterns of cellular automata, we built this knitting pattern generator to provide some unconventional inspiration for your next project!
 
