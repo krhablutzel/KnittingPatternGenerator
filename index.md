@@ -8,7 +8,7 @@ Tired of the same old boring knitting patterns? Try our unconventional knitting 
 
 ![Rule 30, 25x25 stitches](/examples/rule30.png) ![A knitted example.](/examples/rule30knitted.png)
 
-We knitted rule 30 as an example! The image simply cannot capture the incredible texture of this pattern in 3D. When knitting from the front, we knitted the pink and purled the yellow, and when knitting from the back, we did the reverse (every other row).
+We knitted rule 30 as an example! The image simply cannot capture the incredible texture of this pattern in 3D. When knitting from the front, we knitted the white and purled the purple, and when knitting from the back, we did the reverse (every other row).
 
 To recreate this pattern, enter 25 for the width and height and 30 for the seed.
 
