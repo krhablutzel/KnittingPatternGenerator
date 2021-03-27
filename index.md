@@ -25,7 +25,7 @@ To recreate this pattern, enter 25 for the width, 25 for the height, and 30 for 
 
 ![Rule 57, 30x50 size](/examples/rule57.png)
 
-Rule 57 creates creates a symmetrical diamond shield pattern. The stripes along the sides eventually switch to checkers! This pattern could make such a fun accent on the front of a hat or a square of a quilt.
+Rule 57 creates creates a symmetrical diamond shield pattern. The stripes along the sides eventually switch to checkers! This pattern could make a fun accent on the front of a hat or a square of a quilt.
 
 To recreate this pattern, enter 30 for the width, 50 for the height, and 57 for the seed.
 
