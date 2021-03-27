@@ -1,5 +1,7 @@
 <iframe height="400px" width="100%" src="https://replit.com/@kdmallen/blub?lite=1&outputonly=1" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
+<div id="main_text">
+
 Tired of the same old boring knitting patterns? Try our unconventional knitting pattern generator to gain pattern inspiration from cellular automata!
 
 
@@ -37,3 +39,5 @@ To recreate this pattern, enter 25 for the width and height and 30 for the seed.
 We could imagine knitting 3-4 stitches for each cell in this diagram (both width and height) to really emphasize that beautiful diagonal!
 
 To recreate this pattern, enter 10 for the width, and 80 for the height, and 80 for the seed.
+
+</div>
