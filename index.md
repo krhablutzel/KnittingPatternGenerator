@@ -16,7 +16,7 @@ To recreate this pattern, enter 25 for the width and height and 30 for the seed.
 
 ##### Rule 25
 
-![Rule 30, 25x25 size](/examples/rule25.png)
+![Rule 25, 25x25 size](/examples/rule25.png)
 
 ![A knitted example.](/examples/rule25knitted.png)
 
@@ -27,9 +27,7 @@ To recreate this pattern, enter 25 for the width, 25 for the height, and 30 for 
 
 ##### Rule 182
 
-![Rule 30, 36x36 size](/examples/rule25.png)
-
-![A knitted example.](/examples/rule25knitted.png)
+![Rule 182, 36x36 size](/examples/rule25.png)
 
 Rule 182 creates a fun triangle pattern! This would look excellent in two contrasting yarn colors. Check out rule 181 as well for a less symmetrical version of these triangles.
 
@@ -38,7 +36,7 @@ To recreate this pattern, enter 36 for the width and height and 182 for the seed
 
 ##### Rule 80
 
-![Rule 30, 10x80 size](/examples/rule80.png)
+![Rule 80, 10x80 size](/examples/rule80.png)
 
 We could imagine knitting 3-4 stitches for each cell in this diagram (both width and height) to really emphasize that beautiful diagonal!
 
